@@ -4,3 +4,6 @@
         --cor-botao: rgb(241, 8, 98);
         --cor-fundo: black;
     }
+    body{
+        background-color: black;
+    }
